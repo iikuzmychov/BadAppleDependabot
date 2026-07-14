@@ -22,25 +22,19 @@ version is the frame number. All of it is valid SemVer2.
 Every frame of the film lives in this repo: `frames/frame-0001/` …
 `frames/frame-6562/`, each a single shapeless project pinning the 64 packages
 at the clean `1.<frame>.0-0` — **no file in this repo contains any image
-data**. When Dependabot updates a frame to `1.<frame>.0-1.<strip>`, every drop
+data**. When Dependabot updates a frame to `1.<frame>.0-<strip>`, every drop
 of ink in the diff was written by the bot.
 
-## The gallery
-
-GitHub's hosted Dependabot watches six frame folders — frames
-**525 · 1444 · 2429 · 3413 · 4398 · 5645** — via `.github/dependabot.yml`.
-A pinned prerelease can only move to a newer prerelease of the same release,
-so each PR draws exactly its own frame and is never superseded: the PRs stay
-open forever. They are never merged. The open PR list *is* the exhibition.
-
-A hosted update run cannot process 6,562 projects, so the full `frames/` reel
-is processed by the same engine — [dependabot-cli](https://github.com/dependabot/cli),
-one frame at a time — to produce the complete video.
+All 6,562 frames are registered with Dependabot (`.github/dependabot.yml`).
+Since a pinned prerelease can only move to a newer prerelease of the same
+release, each folder's PR draws exactly its own frame and is never superseded.
+The PRs are never merged — the open PR list *is* the exhibition, and it grows
+as Dependabot works through the reel.
 
 ## FAQ
 
 **Is this real?** Yes. The packages are real, the versions are real, and the
-gallery PRs are authored by the real `dependabot[bot]` running on GitHub's
+PRs are authored by the real `dependabot[bot]` running on GitHub's
 infrastructure. Click any open PR and check the Files changed tab.
 
 **Why prerelease tags?** They're the only part of a version string long enough
