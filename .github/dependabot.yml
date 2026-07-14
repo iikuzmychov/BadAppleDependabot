@@ -7,18 +7,62 @@ registries:
     password: ${{secrets.GH_PACKAGES_TOKEN}}
 updates:
   - package-ecosystem: "nuget"
-    directories:
-      - "/frames/frame-0525"
-      - "/frames/frame-1444"
-      - "/frames/frame-2429"
-      - "/frames/frame-3413"
-      - "/frames/frame-4398"
-      - "/frames/frame-5645"
+    directory: "/frames/frame-0525"
     registries:
       - github-nuget
     schedule:
       interval: "daily"
-    open-pull-requests-limit: 6562
+    open-pull-requests-limit: 1
+    groups:
+      frame:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/frames/frame-1444"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/frames/frame-2429"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/frames/frame-3413"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/frames/frame-4398"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/frames/frame-5645"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
     groups:
       frame:
         patterns: ["*"]
