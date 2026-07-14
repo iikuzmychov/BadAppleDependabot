@@ -7,80 +7,12 @@ registries:
     password: ${{secrets.GH_PACKAGES_TOKEN}}
 updates:
   - package-ecosystem: "nuget"
-    directory: "/frames/frame-0525"
+    directories: ["/frames/*"]
     registries:
       - github-nuget
     schedule:
       interval: "daily"
-    open-pull-requests-limit: 1
+    open-pull-requests-limit: 6562
     groups:
       frame:
         patterns: ["*"]
-    ignore:
-      - dependency-name: "*"
-        versions: ["(1.525.0,)"]
-  - package-ecosystem: "nuget"
-    directory: "/frames/frame-1444"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame:
-        patterns: ["*"]
-    ignore:
-      - dependency-name: "*"
-        versions: ["(1.1444.0,)"]
-  - package-ecosystem: "nuget"
-    directory: "/frames/frame-2429"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame:
-        patterns: ["*"]
-    ignore:
-      - dependency-name: "*"
-        versions: ["(1.2429.0,)"]
-  - package-ecosystem: "nuget"
-    directory: "/frames/frame-3413"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame:
-        patterns: ["*"]
-    ignore:
-      - dependency-name: "*"
-        versions: ["(1.3413.0,)"]
-  - package-ecosystem: "nuget"
-    directory: "/frames/frame-4398"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame:
-        patterns: ["*"]
-    ignore:
-      - dependency-name: "*"
-        versions: ["(1.4398.0,)"]
-  - package-ecosystem: "nuget"
-    directory: "/frames/frame-5645"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame:
-        patterns: ["*"]
-    ignore:
-      - dependency-name: "*"
-        versions: ["(1.5645.0,)"]
