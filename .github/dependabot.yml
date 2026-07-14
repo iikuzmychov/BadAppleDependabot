@@ -7,7 +7,13 @@ registries:
     password: ${{secrets.GH_PACKAGES_TOKEN}}
 updates:
   - package-ecosystem: "nuget"
-    directories: ["/frames/*"]
+    directories:
+      - "/frames/frame-0525"
+      - "/frames/frame-1444"
+      - "/frames/frame-2429"
+      - "/frames/frame-3413"
+      - "/frames/frame-4398"
+      - "/frames/frame-5645"
     registries:
       - github-nuget
     schedule:
