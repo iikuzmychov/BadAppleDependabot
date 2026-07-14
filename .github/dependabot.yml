@@ -14,7 +14,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame:
+      frame-0525:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/frames/frame-1444"
@@ -24,7 +24,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame:
+      frame-1444:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/frames/frame-2429"
@@ -34,7 +34,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame:
+      frame-2429:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/frames/frame-3413"
@@ -44,7 +44,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame:
+      frame-3413:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/frames/frame-4398"
@@ -54,7 +54,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame:
+      frame-4398:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/frames/frame-5645"
@@ -64,5 +64,5 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame:
+      frame-5645:
         patterns: ["*"]
