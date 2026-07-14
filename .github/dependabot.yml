@@ -18,7 +18,7 @@ updates:
         patterns: ["*"]
     ignore:
       - dependency-name: "*"
-        versions: ["> 1.525.0"]
+        versions: ["(1.525.0,)"]
   - package-ecosystem: "nuget"
     directory: "/gallery/frame-1444"
     registries:
@@ -31,7 +31,7 @@ updates:
         patterns: ["*"]
     ignore:
       - dependency-name: "*"
-        versions: ["> 1.1444.0"]
+        versions: ["(1.1444.0,)"]
   - package-ecosystem: "nuget"
     directory: "/gallery/frame-2429"
     registries:
@@ -44,7 +44,7 @@ updates:
         patterns: ["*"]
     ignore:
       - dependency-name: "*"
-        versions: ["> 1.2429.0"]
+        versions: ["(1.2429.0,)"]
   - package-ecosystem: "nuget"
     directory: "/gallery/frame-3413"
     registries:
@@ -57,7 +57,7 @@ updates:
         patterns: ["*"]
     ignore:
       - dependency-name: "*"
-        versions: ["> 1.3413.0"]
+        versions: ["(1.3413.0,)"]
   - package-ecosystem: "nuget"
     directory: "/gallery/frame-4398"
     registries:
@@ -70,7 +70,7 @@ updates:
         patterns: ["*"]
     ignore:
       - dependency-name: "*"
-        versions: ["> 1.4398.0"]
+        versions: ["(1.4398.0,)"]
   - package-ecosystem: "nuget"
     directory: "/gallery/frame-5645"
     registries:
@@ -83,4 +83,5 @@ updates:
         patterns: ["*"]
     ignore:
       - dependency-name: "*"
-        versions: ["> 1.5645.0"]
+        versions: ["(1.5645.0,)"]
+
