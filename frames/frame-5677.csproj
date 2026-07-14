@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BadApple.R00" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM" />
+    <PackageReference Include="BadApple.R01" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM" />
+    <PackageReference Include="BadApple.R02" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM" />
+    <PackageReference Include="BadApple.R03" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM" />
+    <PackageReference Include="BadApple.R04" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM" />
+    <PackageReference Include="BadApple.R05" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMMMMMMMMMMMi.MMMMMMMMMMMMMMMMMMM" />
+    <PackageReference Include="BadApple.R06" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMMMMMMMMMM.i.MMMMMMMMMMMMMMMMMMM" />
+    <PackageReference Include="BadApple.R07" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMi.MMMMMMi.i.MMMMMMMMMMMMMMMMMMM" />
+    <PackageReference Include="BadApple.R08" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMi.MMMMMMi.i.iMMMMMMMMMMMMMMMMMM" />
+    <PackageReference Include="BadApple.R09" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMM.i.i.MMMMMMi.i.iMMMMMMMi.i.MMMMMMM" />
+    <PackageReference Include="BadApple.R10" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMi.i.iMMMMMMMi.i.iMMMMMM" />
+    <PackageReference Include="BadApple.R11" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMi.i.iMMMMMMMi.i.i.MMMMM" />
+    <PackageReference Include="BadApple.R12" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMi.i.iMMMMMMMi.i.i.MMMMM" />
+    <PackageReference Include="BadApple.R13" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMi.i.iMMMMMMMi.i.i.MMMMM" />
+    <PackageReference Include="BadApple.R14" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMi.i.iMMMMMMMi.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R15" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMi.i.iMMMMMMMi.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R16" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMM.i.i.iMMMMMMMi.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R17" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMM.i.i.iMMMMMMMi.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R18" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMM.i.i.iMMMMMMMi.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R19" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMM.i.i.iMMMMMMMi.i.i.i.MMM" />
+    <PackageReference Include="BadApple.R20" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMM.i.i.iMMMMMMMi.i.i.i.MMM" />
+    <PackageReference Include="BadApple.R21" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMM.i.i.iMMMMMM.i.i.i.i.MMM" />
+    <PackageReference Include="BadApple.R22" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMM.i.i.MMMMMMM.i.i.i.i.MMM" />
+    <PackageReference Include="BadApple.R23" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMi.i.i.MMMMMMM.i.i.i.i.MMM" />
+    <PackageReference Include="BadApple.R24" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMi.i.i.MMMMMMM.i.i.i.i.MMM" />
+    <PackageReference Include="BadApple.R25" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMi.i.i.MMMMMMM.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R26" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMM.i.i.i.MMMMMMM.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R27" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMM.i.i.i.MMMMMMM.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R28" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMM.i.i.i.MMMMMMi.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R29" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMi.i.i.iMMMMMMMi.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R30" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMi.i.i.iMMMMMMMi.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R31" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMi.i.i.iMMMMMMMi.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R32" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMMMi.i.i.MMMMMMMMi.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R33" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMMMi.i.i.MMMMMMMMi.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R34" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMM.i.i.i.MMMMMMMMi.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R35" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMM.i.i.i.MMMMMMMMi.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R36" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMMMM.i.i.i.MMMMMMMMi.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R37" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMM.i.i.i.MMMMMMMMi.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R38" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMM.i.i.i.MMMMMMMMi.i.i.i.i.iMM" />
+    <PackageReference Include="BadApple.R39" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMM.i.i.i.MMMMMMM.i.i.i.i.i.MMM" />
+    <PackageReference Include="BadApple.R40" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMMMM.i.i.i.MMMMMMM.i.i.i.i.i.MMM" />
+    <PackageReference Include="BadApple.R41" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.i.i.i.i.i.MMM" />
+    <PackageReference Include="BadApple.R42" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.i.i.i.i.i.MMM" />
+    <PackageReference Include="BadApple.R43" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.iMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMi.i.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R44" Version="1.5676.0-i.i.i.i.i.i.i.i.i.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMi.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R45" Version="1.5676.0-i.i.i.i.i.i.i.iMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMi.i.iMMMM" />
+    <PackageReference Include="BadApple.R46" Version="1.5676.0-i.i.i.i.i.i.iMMMMMMMMMMMMMMMMMMMMMM.i.i.iMMMMMMMi.i.i.iMMMMMMMMMMMMMMMi.iMMMM" />
+    <PackageReference Include="BadApple.R47" Version="1.5676.0-i.i.i.i.i.i.iMMMMMMMMMMMMMMMM.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMMMMMMMMMM.iMMMM" />
+    <PackageReference Include="BadApple.R48" Version="1.5676.0-i.i.i.i.i.i.iMMMMMMMMMMMi.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.M.i.iMMMMMMMMMMMMMM" />
+    <PackageReference Include="BadApple.R49" Version="1.5676.0-i.i.i.i.i.i.iMMMMMMMM.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMMMMMM" />
+    <PackageReference Include="BadApple.R50" Version="1.5676.0-i.i.i.i.i.i.iMMMMMi.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMMMMMM" />
+    <PackageReference Include="BadApple.R51" Version="1.5676.0-i.i.i.i.i.i.iMM.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMMMM" />
+    <PackageReference Include="BadApple.R52" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMMMM" />
+    <PackageReference Include="BadApple.R53" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.MMMMM" />
+    <PackageReference Include="BadApple.R54" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R55" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R56" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R57" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R58" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R59" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R60" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R61" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R62" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMM" />
+    <PackageReference Include="BadApple.R63" Version="1.5676.0-i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.iMMMM" />
+  </ItemGroup>
+</Project>
