@@ -8,6 +8,7 @@ registries:
 updates:
   - package-ecosystem: "nuget"
     directory: "/frames/frame-0525"
+    target-branch: "base/frame-0525"
     registries:
       - github-nuget
     schedule:
@@ -18,6 +19,7 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/frames/frame-1444"
+    target-branch: "base/frame-1444"
     registries:
       - github-nuget
     schedule:
@@ -28,6 +30,7 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/frames/frame-2429"
+    target-branch: "base/frame-2429"
     registries:
       - github-nuget
     schedule:
@@ -38,6 +41,7 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/frames/frame-3413"
+    target-branch: "base/frame-3413"
     registries:
       - github-nuget
     schedule:
@@ -48,6 +52,7 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/frames/frame-4398"
+    target-branch: "base/frame-4398"
     registries:
       - github-nuget
     schedule:
@@ -58,6 +63,7 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/frames/frame-5645"
+    target-branch: "base/frame-5645"
     registries:
       - github-nuget
     schedule:
