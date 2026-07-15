@@ -3,15 +3,15 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="BadApple.R00" Version="1.1.0-0" />
-    <PackageReference Include="BadApple.R01" Version="1.1.0-0" />
-    <PackageReference Include="BadApple.R02" Version="1.1.0-0" />
-    <PackageReference Include="BadApple.R03" Version="1.1.0-0" />
-    <PackageReference Include="BadApple.R04" Version="1.1.0-0" />
-    <PackageReference Include="BadApple.R05" Version="1.1.0-0" />
-    <PackageReference Include="BadApple.R06" Version="1.1.0-0" />
-    <PackageReference Include="BadApple.R07" Version="1.1.0-0" />
-    <PackageReference Include="BadApple.R08" Version="1.1.0-0" />
+    <PackageReference Include="BadApple.R00" Version="1.1.0-i" />
+    <PackageReference Include="BadApple.R01" Version="1.1.0-i" />
+    <PackageReference Include="BadApple.R02" Version="1.1.0-i" />
+    <PackageReference Include="BadApple.R03" Version="1.1.0-i" />
+    <PackageReference Include="BadApple.R04" Version="1.1.0-i" />
+    <PackageReference Include="BadApple.R05" Version="1.1.0-i" />
+    <PackageReference Include="BadApple.R06" Version="1.1.0-i" />
+    <PackageReference Include="BadApple.R07" Version="1.1.0-i" />
+    <PackageReference Include="BadApple.R08" Version="1.1.0-i" />
     <PackageReference Include="BadApple.R09" Version="1.1.0-0" />
     <PackageReference Include="BadApple.R10" Version="1.1.0-0" />
     <PackageReference Include="BadApple.R11" Version="1.1.0-0" />
