@@ -19,17 +19,18 @@ The prerelease tag encodes the pixels of that row — `M` is ink, `.i` is
 background, the string ends at the row's last bright pixel, and the minor
 version is the frame number. All of it is valid SemVer2.
 
-Every frame of the film lives in this repo: `frames/frame-0001/` …
-`frames/frame-6562/`, each a single shapeless project pinning the 64 packages
-at the clean `1.<frame>.0-0` — **no file in this repo contains any image
-data**. When Dependabot updates a frame to `1.<frame>.0-<strip>`, every drop
-of ink in the diff was written by the bot.
+Every frame of the film is a branch: `frame-0001` … `frame-6562`, each holding
+a single shapeless `frame.csproj` pinning the 64 packages at the clean
+`1.<frame>.0-0` — **no file in this repo contains any image data**. When
+Dependabot updates a frame to `1.<frame>.0-<strip>`, every drop of ink in the
+diff was written by the bot.
 
-All 6,562 frames are registered with Dependabot (`.github/dependabot.yml`).
-Since a pinned prerelease can only move to a newer prerelease of the same
-release, each folder's PR draws exactly its own frame and is never superseded.
-The PRs are never merged — the open PR list *is* the exhibition, and it grows
-as Dependabot works through the reel.
+Each branch is registered with Dependabot (`.github/dependabot.yml`) as its
+own update target, so every frame gets its own pull request into its own
+branch — and since a pinned prerelease can only move to a newer prerelease of
+the same release, each PR draws exactly its own frame. The PRs are never
+merged — the open PR list *is* the exhibition, and it grows as Dependabot
+works through the reel.
 
 ## FAQ
 
