@@ -15,7 +15,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0001:
+      frame-1:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -26,7 +26,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0002:
+      frame-2:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -37,7 +37,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0003:
+      frame-3:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -48,7 +48,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0004:
+      frame-4:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -59,7 +59,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0005:
+      frame-5:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -70,7 +70,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0006:
+      frame-6:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -81,7 +81,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0007:
+      frame-7:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -92,7 +92,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0008:
+      frame-8:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -103,7 +103,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0009:
+      frame-9:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -114,7 +114,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0010:
+      frame-10:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -125,7 +125,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0011:
+      frame-11:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -136,7 +136,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0012:
+      frame-12:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -147,7 +147,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0013:
+      frame-13:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -158,7 +158,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0014:
+      frame-14:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -169,7 +169,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0015:
+      frame-15:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -180,7 +180,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0016:
+      frame-16:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -191,7 +191,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0017:
+      frame-17:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -202,7 +202,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0018:
+      frame-18:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -213,7 +213,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0019:
+      frame-19:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -224,7 +224,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0020:
+      frame-20:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -235,7 +235,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0021:
+      frame-21:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -246,7 +246,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0022:
+      frame-22:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -257,7 +257,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0023:
+      frame-23:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -268,7 +268,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0024:
+      frame-24:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -279,7 +279,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0025:
+      frame-25:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -290,7 +290,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0026:
+      frame-26:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -301,7 +301,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0027:
+      frame-27:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -312,7 +312,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0028:
+      frame-28:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -323,7 +323,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0029:
+      frame-29:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -334,7 +334,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0030:
+      frame-30:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -345,7 +345,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0031:
+      frame-31:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -356,7 +356,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0032:
+      frame-32:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -367,7 +367,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0033:
+      frame-33:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -378,7 +378,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0034:
+      frame-34:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -389,7 +389,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0035:
+      frame-35:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -400,7 +400,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0036:
+      frame-36:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -411,7 +411,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0037:
+      frame-37:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -422,7 +422,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0038:
+      frame-38:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -433,7 +433,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0039:
+      frame-39:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -444,7 +444,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0040:
+      frame-40:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -455,7 +455,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0041:
+      frame-41:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -466,7 +466,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0042:
+      frame-42:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -477,7 +477,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0043:
+      frame-43:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -488,7 +488,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0044:
+      frame-44:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -499,7 +499,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0045:
+      frame-45:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -510,7 +510,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0046:
+      frame-46:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -521,7 +521,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0047:
+      frame-47:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -532,7 +532,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0048:
+      frame-48:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -543,7 +543,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0049:
+      frame-49:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -554,7 +554,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0050:
+      frame-50:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -565,7 +565,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0051:
+      frame-51:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -576,7 +576,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0052:
+      frame-52:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -587,7 +587,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0053:
+      frame-53:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -598,7 +598,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0054:
+      frame-54:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -609,7 +609,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0055:
+      frame-55:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -620,7 +620,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0056:
+      frame-56:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -631,7 +631,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0057:
+      frame-57:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -642,7 +642,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0058:
+      frame-58:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -653,7 +653,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0059:
+      frame-59:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -664,7 +664,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0060:
+      frame-60:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -675,7 +675,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0061:
+      frame-61:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -686,7 +686,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0062:
+      frame-62:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -697,7 +697,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0063:
+      frame-63:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -708,7 +708,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0064:
+      frame-64:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -719,7 +719,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0065:
+      frame-65:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -730,7 +730,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0066:
+      frame-66:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -741,7 +741,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0067:
+      frame-67:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -752,7 +752,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0068:
+      frame-68:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -763,7 +763,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0069:
+      frame-69:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -774,7 +774,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0070:
+      frame-70:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -785,7 +785,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0071:
+      frame-71:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -796,7 +796,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0072:
+      frame-72:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -807,7 +807,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0073:
+      frame-73:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -818,7 +818,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0074:
+      frame-74:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -829,7 +829,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0075:
+      frame-75:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -840,7 +840,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0076:
+      frame-76:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -851,7 +851,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0077:
+      frame-77:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -862,7 +862,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0078:
+      frame-78:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -873,7 +873,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0079:
+      frame-79:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -884,7 +884,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0080:
+      frame-80:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -895,7 +895,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0081:
+      frame-81:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -906,7 +906,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0082:
+      frame-82:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -917,7 +917,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0083:
+      frame-83:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -928,7 +928,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0084:
+      frame-84:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -939,7 +939,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0085:
+      frame-85:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -950,7 +950,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0086:
+      frame-86:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -961,7 +961,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0087:
+      frame-87:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -972,7 +972,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0088:
+      frame-88:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -983,7 +983,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0089:
+      frame-89:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -994,7 +994,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0090:
+      frame-90:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -1005,7 +1005,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0091:
+      frame-91:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -1016,7 +1016,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0092:
+      frame-92:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -1027,7 +1027,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0093:
+      frame-93:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -1038,7 +1038,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0094:
+      frame-94:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -1049,7 +1049,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0095:
+      frame-95:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -1060,7 +1060,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0096:
+      frame-96:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -1071,7 +1071,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0097:
+      frame-97:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -1082,7 +1082,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0098:
+      frame-98:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -1093,7 +1093,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0099:
+      frame-99:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -1104,5 +1104,5 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-0100:
+      frame-100:
         patterns: ["*"]
