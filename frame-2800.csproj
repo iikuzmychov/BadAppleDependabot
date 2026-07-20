@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF2800L00" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L01" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L02" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L03" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L04" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L05" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L06" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L07" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L08" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L09" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L10" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L11" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L12" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L13" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L14" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L15" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L16" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L17" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L18" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L19" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L20" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L21" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L22" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L23" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L24" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L25" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L26" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L27" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L28" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L29" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L30" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L31" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L32" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L33" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L34" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L35" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L36" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L37" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L38" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L39" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L40" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L41" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L42" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L43" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L44" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L45" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L46" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L47" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L48" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L49" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L50" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L51" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L52" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L53" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L54" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L55" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L56" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L57" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L58" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L59" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L60" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L61" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L62" Version="1.2800.0-0" />
+    <PackageReference Include="BAF2800L63" Version="1.2800.0-0" />
+  </ItemGroup>
+</Project>
