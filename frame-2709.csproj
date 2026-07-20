@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF2709L00" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L01" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L02" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L03" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L04" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L05" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L06" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L07" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L08" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L09" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L10" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L11" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L12" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L13" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L14" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L15" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L16" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L17" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L18" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L19" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L20" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L21" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L22" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L23" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L24" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L25" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L26" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L27" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L28" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L29" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L30" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L31" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L32" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L33" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L34" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L35" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L36" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L37" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L38" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L39" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L40" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L41" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L42" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L43" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L44" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L45" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L46" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L47" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L48" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L49" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L50" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L51" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L52" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L53" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L54" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L55" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L56" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L57" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L58" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L59" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L60" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L61" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L62" Version="1.2709.0-0" />
+    <PackageReference Include="BAF2709L63" Version="1.2709.0-0" />
+  </ItemGroup>
+</Project>
