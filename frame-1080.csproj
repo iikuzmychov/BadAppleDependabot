@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF1080L00" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L01" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L02" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L03" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L04" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L05" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L06" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L07" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L08" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L09" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L10" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L11" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L12" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L13" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L14" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L15" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L16" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L17" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L18" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L19" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L20" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L21" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L22" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L23" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L24" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L25" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L26" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L27" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L28" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L29" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L30" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L31" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L32" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L33" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L34" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L35" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L36" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L37" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L38" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L39" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L40" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L41" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L42" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L43" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L44" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L45" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L46" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L47" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L48" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L49" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L50" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L51" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L52" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L53" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L54" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L55" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L56" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L57" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L58" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L59" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L60" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L61" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L62" Version="1.1080.0-0" />
+    <PackageReference Include="BAF1080L63" Version="1.1080.0-0" />
+  </ItemGroup>
+</Project>
