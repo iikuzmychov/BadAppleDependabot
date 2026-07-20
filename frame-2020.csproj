@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF2020L00" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L01" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L02" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L03" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L04" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L05" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L06" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L07" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L08" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L09" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L10" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L11" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L12" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L13" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L14" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L15" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L16" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L17" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L18" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L19" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L20" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L21" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L22" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L23" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L24" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L25" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L26" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L27" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L28" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L29" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L30" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L31" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L32" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L33" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L34" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L35" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L36" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L37" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L38" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L39" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L40" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L41" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L42" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L43" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L44" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L45" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L46" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L47" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L48" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L49" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L50" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L51" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L52" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L53" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L54" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L55" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L56" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L57" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L58" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L59" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L60" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L61" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L62" Version="1.2020.0-0" />
+    <PackageReference Include="BAF2020L63" Version="1.2020.0-0" />
+  </ItemGroup>
+</Project>
