@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF1900L00" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L01" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L02" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L03" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L04" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L05" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L06" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L07" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L08" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L09" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L10" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L11" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L12" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L13" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L14" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L15" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L16" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L17" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L18" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L19" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L20" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L21" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L22" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L23" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L24" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L25" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L26" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L27" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L28" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L29" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L30" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L31" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L32" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L33" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L34" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L35" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L36" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L37" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L38" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L39" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L40" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L41" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L42" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L43" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L44" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L45" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L46" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L47" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L48" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L49" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L50" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L51" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L52" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L53" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L54" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L55" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L56" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L57" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L58" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L59" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L60" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L61" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L62" Version="1.1900.0-0" />
+    <PackageReference Include="BAF1900L63" Version="1.1900.0-0" />
+  </ItemGroup>
+</Project>
