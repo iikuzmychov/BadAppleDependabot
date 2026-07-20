@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF4050L00" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L01" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L02" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L03" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L04" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L05" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L06" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L07" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L08" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L09" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L10" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L11" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L12" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L13" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L14" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L15" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L16" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L17" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L18" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L19" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L20" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L21" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L22" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L23" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L24" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L25" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L26" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L27" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L28" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L29" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L30" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L31" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L32" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L33" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L34" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L35" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L36" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L37" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L38" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L39" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L40" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L41" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L42" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L43" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L44" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L45" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L46" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L47" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L48" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L49" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L50" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L51" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L52" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L53" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L54" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L55" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L56" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L57" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L58" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L59" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L60" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L61" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L62" Version="1.4050.0-0" />
+    <PackageReference Include="BAF4050L63" Version="1.4050.0-0" />
+  </ItemGroup>
+</Project>
