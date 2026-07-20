@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF2004L00" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L01" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L02" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L03" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L04" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L05" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L06" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L07" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L08" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L09" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L10" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L11" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L12" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L13" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L14" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L15" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L16" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L17" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L18" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L19" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L20" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L21" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L22" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L23" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L24" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L25" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L26" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L27" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L28" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L29" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L30" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L31" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L32" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L33" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L34" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L35" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L36" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L37" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L38" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L39" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L40" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L41" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L42" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L43" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L44" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L45" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L46" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L47" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L48" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L49" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L50" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L51" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L52" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L53" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L54" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L55" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L56" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L57" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L58" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L59" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L60" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L61" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L62" Version="1.2004.0-0" />
+    <PackageReference Include="BAF2004L63" Version="1.2004.0-0" />
+  </ItemGroup>
+</Project>
