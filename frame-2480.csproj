@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF2480L00" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L01" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L02" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L03" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L04" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L05" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L06" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L07" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L08" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L09" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L10" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L11" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L12" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L13" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L14" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L15" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L16" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L17" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L18" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L19" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L20" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L21" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L22" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L23" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L24" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L25" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L26" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L27" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L28" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L29" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L30" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L31" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L32" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L33" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L34" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L35" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L36" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L37" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L38" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L39" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L40" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L41" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L42" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L43" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L44" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L45" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L46" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L47" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L48" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L49" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L50" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L51" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L52" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L53" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L54" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L55" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L56" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L57" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L58" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L59" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L60" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L61" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L62" Version="1.2480.0-0" />
+    <PackageReference Include="BAF2480L63" Version="1.2480.0-0" />
+  </ItemGroup>
+</Project>
