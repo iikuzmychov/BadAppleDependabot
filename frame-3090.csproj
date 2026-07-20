@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF3090L00" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L01" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L02" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L03" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L04" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L05" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L06" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L07" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L08" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L09" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L10" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L11" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L12" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L13" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L14" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L15" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L16" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L17" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L18" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L19" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L20" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L21" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L22" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L23" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L24" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L25" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L26" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L27" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L28" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L29" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L30" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L31" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L32" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L33" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L34" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L35" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L36" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L37" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L38" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L39" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L40" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L41" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L42" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L43" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L44" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L45" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L46" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L47" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L48" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L49" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L50" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L51" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L52" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L53" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L54" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L55" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L56" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L57" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L58" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L59" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L60" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L61" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L62" Version="1.3090.0-0" />
+    <PackageReference Include="BAF3090L63" Version="1.3090.0-0" />
+  </ItemGroup>
+</Project>
