@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF1908L00" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L01" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L02" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L03" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L04" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L05" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L06" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L07" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L08" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L09" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L10" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L11" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L12" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L13" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L14" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L15" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L16" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L17" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L18" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L19" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L20" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L21" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L22" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L23" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L24" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L25" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L26" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L27" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L28" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L29" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L30" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L31" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L32" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L33" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L34" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L35" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L36" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L37" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L38" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L39" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L40" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L41" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L42" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L43" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L44" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L45" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L46" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L47" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L48" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L49" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L50" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L51" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L52" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L53" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L54" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L55" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L56" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L57" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L58" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L59" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L60" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L61" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L62" Version="1.1908.0-0" />
+    <PackageReference Include="BAF1908L63" Version="1.1908.0-0" />
+  </ItemGroup>
+</Project>
