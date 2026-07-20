@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF6420L00" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L01" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L02" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L03" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L04" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L05" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L06" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L07" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L08" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L09" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L10" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L11" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L12" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L13" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L14" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L15" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L16" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L17" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L18" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L19" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L20" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L21" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L22" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L23" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L24" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L25" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L26" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L27" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L28" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L29" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L30" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L31" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L32" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L33" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L34" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L35" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L36" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L37" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L38" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L39" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L40" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L41" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L42" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L43" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L44" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L45" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L46" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L47" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L48" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L49" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L50" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L51" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L52" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L53" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L54" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L55" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L56" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L57" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L58" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L59" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L60" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L61" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L62" Version="1.6420.0-0" />
+    <PackageReference Include="BAF6420L63" Version="1.6420.0-0" />
+  </ItemGroup>
+</Project>
