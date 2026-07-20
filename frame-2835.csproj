@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF2835L00" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L01" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L02" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L03" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L04" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L05" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L06" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L07" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L08" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L09" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L10" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L11" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L12" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L13" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L14" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L15" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L16" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L17" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L18" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L19" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L20" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L21" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L22" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L23" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L24" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L25" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L26" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L27" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L28" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L29" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L30" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L31" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L32" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L33" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L34" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L35" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L36" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L37" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L38" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L39" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L40" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L41" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L42" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L43" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L44" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L45" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L46" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L47" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L48" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L49" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L50" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L51" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L52" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L53" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L54" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L55" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L56" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L57" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L58" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L59" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L60" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L61" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L62" Version="1.2835.0-0" />
+    <PackageReference Include="BAF2835L63" Version="1.2835.0-0" />
+  </ItemGroup>
+</Project>
