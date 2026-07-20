@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF5025L00" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L01" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L02" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L03" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L04" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L05" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L06" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L07" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L08" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L09" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L10" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L11" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L12" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L13" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L14" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L15" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L16" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L17" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L18" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L19" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L20" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L21" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L22" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L23" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L24" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L25" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L26" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L27" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L28" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L29" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L30" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L31" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L32" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L33" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L34" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L35" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L36" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L37" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L38" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L39" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L40" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L41" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L42" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L43" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L44" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L45" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L46" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L47" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L48" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L49" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L50" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L51" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L52" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L53" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L54" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L55" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L56" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L57" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L58" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L59" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L60" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L61" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L62" Version="1.5025.0-0" />
+    <PackageReference Include="BAF5025L63" Version="1.5025.0-0" />
+  </ItemGroup>
+</Project>
