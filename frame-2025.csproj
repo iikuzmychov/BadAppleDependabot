@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF2025L00" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L01" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L02" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L03" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L04" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L05" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L06" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L07" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L08" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L09" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L10" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L11" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L12" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L13" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L14" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L15" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L16" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L17" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L18" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L19" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L20" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L21" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L22" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L23" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L24" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L25" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L26" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L27" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L28" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L29" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L30" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L31" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L32" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L33" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L34" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L35" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L36" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L37" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L38" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L39" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L40" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L41" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L42" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L43" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L44" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L45" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L46" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L47" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L48" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L49" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L50" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L51" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L52" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L53" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L54" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L55" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L56" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L57" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L58" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L59" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L60" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L61" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L62" Version="1.2025.0-0" />
+    <PackageReference Include="BAF2025L63" Version="1.2025.0-0" />
+  </ItemGroup>
+</Project>
