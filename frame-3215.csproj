@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF3215L00" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L01" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L02" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L03" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L04" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L05" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L06" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L07" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L08" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L09" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L10" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L11" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L12" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L13" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L14" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L15" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L16" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L17" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L18" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L19" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L20" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L21" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L22" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L23" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L24" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L25" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L26" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L27" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L28" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L29" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L30" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L31" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L32" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L33" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L34" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L35" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L36" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L37" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L38" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L39" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L40" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L41" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L42" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L43" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L44" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L45" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L46" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L47" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L48" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L49" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L50" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L51" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L52" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L53" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L54" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L55" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L56" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L57" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L58" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L59" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L60" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L61" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L62" Version="1.3215.0-0" />
+    <PackageReference Include="BAF3215L63" Version="1.3215.0-0" />
+  </ItemGroup>
+</Project>
