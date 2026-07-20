@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF0500L00" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L01" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L02" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L03" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L04" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L05" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L06" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L07" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L08" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L09" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L10" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L11" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L12" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L13" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L14" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L15" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L16" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L17" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L18" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L19" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L20" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L21" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L22" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L23" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L24" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L25" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L26" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L27" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L28" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L29" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L30" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L31" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L32" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L33" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L34" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L35" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L36" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L37" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L38" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L39" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L40" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L41" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L42" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L43" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L44" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L45" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L46" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L47" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L48" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L49" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L50" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L51" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L52" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L53" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L54" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L55" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L56" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L57" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L58" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L59" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L60" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L61" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L62" Version="1.500.0-0" />
+    <PackageReference Include="BAF0500L63" Version="1.500.0-0" />
+  </ItemGroup>
+</Project>
