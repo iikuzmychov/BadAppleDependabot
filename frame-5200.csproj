@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF5200L00" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L01" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L02" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L03" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L04" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L05" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L06" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L07" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L08" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L09" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L10" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L11" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L12" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L13" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L14" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L15" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L16" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L17" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L18" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L19" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L20" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L21" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L22" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L23" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L24" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L25" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L26" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L27" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L28" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L29" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L30" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L31" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L32" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L33" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L34" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L35" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L36" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L37" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L38" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L39" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L40" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L41" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L42" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L43" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L44" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L45" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L46" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L47" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L48" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L49" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L50" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L51" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L52" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L53" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L54" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L55" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L56" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L57" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L58" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L59" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L60" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L61" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L62" Version="1.5200.0-0" />
+    <PackageReference Include="BAF5200L63" Version="1.5200.0-0" />
+  </ItemGroup>
+</Project>
