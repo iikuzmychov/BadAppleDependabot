@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF4205L00" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L01" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L02" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L03" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L04" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L05" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L06" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L07" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L08" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L09" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L10" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L11" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L12" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L13" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L14" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L15" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L16" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L17" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L18" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L19" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L20" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L21" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L22" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L23" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L24" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L25" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L26" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L27" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L28" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L29" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L30" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L31" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L32" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L33" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L34" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L35" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L36" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L37" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L38" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L39" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L40" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L41" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L42" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L43" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L44" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L45" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L46" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L47" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L48" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L49" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L50" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L51" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L52" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L53" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L54" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L55" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L56" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L57" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L58" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L59" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L60" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L61" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L62" Version="1.4205.0-0" />
+    <PackageReference Include="BAF4205L63" Version="1.4205.0-0" />
+  </ItemGroup>
+</Project>
