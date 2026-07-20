@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF2019L00" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L01" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L02" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L03" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L04" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L05" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L06" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L07" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L08" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L09" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L10" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L11" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L12" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L13" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L14" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L15" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L16" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L17" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L18" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L19" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L20" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L21" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L22" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L23" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L24" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L25" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L26" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L27" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L28" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L29" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L30" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L31" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L32" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L33" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L34" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L35" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L36" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L37" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L38" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L39" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L40" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L41" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L42" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L43" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L44" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L45" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L46" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L47" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L48" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L49" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L50" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L51" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L52" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L53" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L54" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L55" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L56" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L57" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L58" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L59" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L60" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L61" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L62" Version="1.2019.0-0" />
+    <PackageReference Include="BAF2019L63" Version="1.2019.0-0" />
+  </ItemGroup>
+</Project>
