@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF2008L00" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L01" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L02" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L03" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L04" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L05" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L06" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L07" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L08" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L09" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L10" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L11" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L12" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L13" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L14" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L15" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L16" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L17" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L18" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L19" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L20" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L21" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L22" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L23" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L24" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L25" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L26" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L27" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L28" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L29" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L30" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L31" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L32" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L33" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L34" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L35" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L36" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L37" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L38" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L39" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L40" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L41" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L42" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L43" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L44" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L45" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L46" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L47" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L48" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L49" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L50" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L51" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L52" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L53" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L54" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L55" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L56" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L57" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L58" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L59" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L60" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L61" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L62" Version="1.2008.0-0" />
+    <PackageReference Include="BAF2008L63" Version="1.2008.0-0" />
+  </ItemGroup>
+</Project>
