@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF5180L00" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L01" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L02" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L03" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L04" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L05" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L06" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L07" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L08" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L09" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L10" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L11" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L12" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L13" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L14" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L15" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L16" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L17" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L18" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L19" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L20" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L21" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L22" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L23" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L24" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L25" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L26" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L27" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L28" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L29" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L30" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L31" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L32" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L33" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L34" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L35" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L36" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L37" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L38" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L39" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L40" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L41" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L42" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L43" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L44" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L45" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L46" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L47" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L48" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L49" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L50" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L51" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L52" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L53" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L54" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L55" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L56" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L57" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L58" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L59" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L60" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L61" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L62" Version="1.5180.0-0" />
+    <PackageReference Include="BAF5180L63" Version="1.5180.0-0" />
+  </ItemGroup>
+</Project>
