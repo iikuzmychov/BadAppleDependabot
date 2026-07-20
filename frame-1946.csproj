@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF1946L00" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L01" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L02" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L03" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L04" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L05" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L06" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L07" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L08" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L09" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L10" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L11" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L12" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L13" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L14" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L15" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L16" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L17" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L18" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L19" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L20" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L21" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L22" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L23" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L24" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L25" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L26" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L27" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L28" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L29" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L30" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L31" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L32" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L33" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L34" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L35" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L36" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L37" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L38" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L39" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L40" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L41" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L42" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L43" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L44" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L45" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L46" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L47" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L48" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L49" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L50" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L51" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L52" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L53" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L54" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L55" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L56" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L57" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L58" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L59" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L60" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L61" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L62" Version="1.1946.0-0" />
+    <PackageReference Include="BAF1946L63" Version="1.1946.0-0" />
+  </ItemGroup>
+</Project>
