@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF2024L00" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L01" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L02" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L03" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L04" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L05" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L06" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L07" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L08" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L09" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L10" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L11" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L12" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L13" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L14" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L15" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L16" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L17" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L18" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L19" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L20" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L21" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L22" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L23" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L24" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L25" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L26" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L27" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L28" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L29" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L30" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L31" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L32" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L33" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L34" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L35" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L36" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L37" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L38" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L39" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L40" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L41" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L42" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L43" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L44" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L45" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L46" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L47" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L48" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L49" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L50" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L51" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L52" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L53" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L54" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L55" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L56" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L57" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L58" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L59" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L60" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L61" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L62" Version="1.2024.0-0" />
+    <PackageReference Include="BAF2024L63" Version="1.2024.0-0" />
+  </ItemGroup>
+</Project>
