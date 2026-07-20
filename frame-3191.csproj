@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF3191L00" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L01" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L02" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L03" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L04" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L05" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L06" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L07" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L08" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L09" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L10" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L11" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L12" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L13" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L14" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L15" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L16" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L17" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L18" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L19" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L20" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L21" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L22" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L23" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L24" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L25" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L26" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L27" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L28" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L29" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L30" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L31" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L32" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L33" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L34" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L35" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L36" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L37" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L38" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L39" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L40" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L41" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L42" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L43" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L44" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L45" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L46" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L47" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L48" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L49" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L50" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L51" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L52" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L53" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L54" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L55" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L56" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L57" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L58" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L59" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L60" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L61" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L62" Version="1.3191.0-0" />
+    <PackageReference Include="BAF3191L63" Version="1.3191.0-0" />
+  </ItemGroup>
+</Project>
