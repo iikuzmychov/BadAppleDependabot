@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BAF0200L00" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L01" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L02" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L03" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L04" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L05" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L06" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L07" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L08" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L09" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L10" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L11" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L12" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L13" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L14" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L15" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L16" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L17" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L18" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L19" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L20" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L21" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L22" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L23" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L24" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L25" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L26" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L27" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L28" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L29" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L30" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L31" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L32" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L33" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L34" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L35" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L36" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L37" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L38" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L39" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L40" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L41" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L42" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L43" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L44" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L45" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L46" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L47" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L48" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L49" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L50" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L51" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L52" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L53" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L54" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L55" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L56" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L57" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L58" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L59" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L60" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L61" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L62" Version="1.200.0-0" />
+    <PackageReference Include="BAF0200L63" Version="1.200.0-0" />
+  </ItemGroup>
+</Project>
