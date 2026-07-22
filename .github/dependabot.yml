@@ -261,6 +261,28 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
+    target-branch: "frame-0024"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-24:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0025"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-25:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
     target-branch: "frame-0026"
     registries:
       - github-nuget
@@ -269,6 +291,28 @@ updates:
     open-pull-requests-limit: 1
     groups:
       frame-26:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0027"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-27:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0028"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-28:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -283,6 +327,28 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
+    target-branch: "frame-0030"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-30:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0031"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-31:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
     target-branch: "frame-0032"
     registries:
       - github-nuget
@@ -294,69 +360,520 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2027"
+    target-branch: "frame-0033"
     registries:
       - github-nuget
     schedule:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-2027:
+      frame-33:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2028"
+    target-branch: "frame-0034"
     registries:
       - github-nuget
     schedule:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-2028:
+      frame-34:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2029"
+    target-branch: "frame-0035"
     registries:
       - github-nuget
     schedule:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-2029:
+      frame-35:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2030"
+    target-branch: "frame-0036"
     registries:
       - github-nuget
     schedule:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-2030:
+      frame-36:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2031"
+    target-branch: "frame-0037"
     registries:
       - github-nuget
     schedule:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-2031:
+      frame-37:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2032"
+    target-branch: "frame-0038"
     registries:
       - github-nuget
     schedule:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-2032:
+      frame-38:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0039"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-39:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0040"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-40:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0041"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-41:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0042"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-42:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0043"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-43:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0044"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-44:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0045"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-45:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0046"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-46:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0047"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-47:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0048"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-48:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0049"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-49:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0050"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-50:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0051"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-51:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0052"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-52:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0053"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-53:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0054"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-54:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0055"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-55:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0056"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-56:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0057"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-57:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0058"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-58:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0059"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-59:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0060"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-60:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0061"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-61:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0062"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-62:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0063"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-63:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0064"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-64:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0065"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-65:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0066"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-66:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0067"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-67:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0069"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-69:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0070"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-70:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0071"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-71:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0072"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-72:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0073"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-73:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0074"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-74:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0075"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-75:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0076"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-76:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0077"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-77:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0078"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-78:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0080"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-80:
+        patterns: ["*"]
+  - package-ecosystem: "nuget"
+    directory: "/"
+    target-branch: "frame-0084"
+    registries:
+      - github-nuget
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 1
+    groups:
+      frame-84:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -371,94 +888,6 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2034"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2034:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2035"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2035:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2036"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2036:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2037"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2037:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2038"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2038:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2039"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2039:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2040"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2040:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2041"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2041:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
     target-branch: "frame-2042"
     registries:
       - github-nuget
@@ -470,17 +899,6 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2043"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2043:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
     target-branch: "frame-2044"
     registries:
       - github-nuget
@@ -489,39 +907,6 @@ updates:
     open-pull-requests-limit: 1
     groups:
       frame-2044:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2045"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2045:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2046"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2046:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2047"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2047:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -547,28 +932,6 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2050"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2050:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2051"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2051:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
     target-branch: "frame-2052"
     registries:
       - github-nuget
@@ -588,50 +951,6 @@ updates:
     open-pull-requests-limit: 1
     groups:
       frame-2053:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2054"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2054:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2055"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2055:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2056"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2056:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2057"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2057:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -679,50 +998,6 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2062"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2062:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2063"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2063:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2064"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2064:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2065"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2065:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
     target-branch: "frame-2066"
     registries:
       - github-nuget
@@ -742,17 +1017,6 @@ updates:
     open-pull-requests-limit: 1
     groups:
       frame-2067:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2068"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2068:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -778,105 +1042,6 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2071"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2071:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2072"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2072:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2073"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2073:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2074"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2074:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2075"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2075:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2076"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2076:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2077"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2077:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2078"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2078:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2079"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2079:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
     target-branch: "frame-2080"
     registries:
       - github-nuget
@@ -885,28 +1050,6 @@ updates:
     open-pull-requests-limit: 1
     groups:
       frame-2080:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2081"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2081:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2082"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2082:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
@@ -943,105 +1086,6 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2086"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2086:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2087"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2087:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2088"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2088:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2089"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2089:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2090"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2090:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2091"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2091:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2092"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2092:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2093"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2093:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2094"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2094:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
     target-branch: "frame-2095"
     registries:
       - github-nuget
@@ -1053,17 +1097,6 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2096"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2096:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
     target-branch: "frame-2097"
     registries:
       - github-nuget
@@ -1072,37 +1105,4 @@ updates:
     open-pull-requests-limit: 1
     groups:
       frame-2097:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2098"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2098:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2099"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2099:
-        patterns: ["*"]
-  - package-ecosystem: "nuget"
-    directory: "/"
-    target-branch: "frame-2100"
-    registries:
-      - github-nuget
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    groups:
-      frame-2100:
         patterns: ["*"]
