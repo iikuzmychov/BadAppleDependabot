@@ -1097,12 +1097,12 @@ updates:
         patterns: ["*"]
   - package-ecosystem: "nuget"
     directory: "/"
-    target-branch: "frame-2355"
+    target-branch: "frame-2356"
     registries:
       - github-nuget
     schedule:
       interval: "daily"
     open-pull-requests-limit: 1
     groups:
-      frame-2355:
+      frame-2356:
         patterns: ["*"]
